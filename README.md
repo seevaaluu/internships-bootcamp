@@ -1,9 +1,6 @@
 # Internships Bootcamp
 ## Git
 ### ¿Qué es Git?
-+ Sistema de control distribuido# Internships Bootcamp
-## Git
-### ¿Qué es Git?
 + Sistema de control distribuido.
 + Ayuda a coordinar los cambios en el proyecto.
 + Conoces quien hace los cambios y cuando los hizo.
