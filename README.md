@@ -1,5 +1,6 @@
 # Internships Bootcamp
 ## Git
+![Git and Github](http://blog.desafiolatam.com/wp-content/uploads/2016/05/git-github-logo.jpg)
 ### ¿Qué es Git?
 + Sistema de control distribuido.
 + Ayuda a coordinar los cambios en el proyecto.
